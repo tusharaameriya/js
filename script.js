@@ -177,9 +177,8 @@ const addArrowFunction = (x, y) => {
 addArrowFunction(3, 5); //output:8
 
 //ex3
-const multipleArrowFunction = (x, y) => {
-  return x * y;
-};
+const multipleArrowFunction = (x, y) => x * y;
+
 addArrowFunction(3, 5); //output:15
 
 ////////////////////////////////////////////////////////
